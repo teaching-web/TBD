@@ -1,11 +1,12 @@
 p {
   font-size:25px;
-width:960px
+
 }
 h1 {
   color:rgb(21, 158, 199);
   font-size:50px;
 }
 body {
+  width:960px
   margin:auto;
 }
