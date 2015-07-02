@@ -1,9 +1,10 @@
 p {
   font-size:25px;
-
+color:purple;
 }
 h1 {
   font-size:50px;
+  color:pink;
 }
 body {
   width:960px;
