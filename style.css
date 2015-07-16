@@ -12,6 +12,7 @@ body {
 }
   margin:auto;
 }
-#endtag {
-  font-size:50px;
+.endtag {
+  font-size:50;
+  color:black;
 }
