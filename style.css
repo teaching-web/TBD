@@ -1,10 +1,8 @@
 p {
   font-size:25px;
-color:green;
 }
 h1 {
   font-size:50px;
-  color:brown;
 }
 body {
   width:960px;
@@ -13,6 +11,5 @@ body {
   margin:auto;
 }
 .endtag {
-  font-size:50;
-  color:black;
+  font-size:350;
 }
